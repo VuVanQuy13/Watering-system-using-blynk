@@ -19,4 +19,4 @@ LM358 sẽ thay đổi trạng thái.
 
 •	Màn hình LCD sẽ hiển thị trạng thái độ ẩm đất đo được và trạng thái bơm (bật/tắt).
 
-•	Xem giá trị độ ẩm và bật tắt relay qua app blynk.
+•	Xem giá trị độ ẩm và bật/tắt relay qua app blynk.
